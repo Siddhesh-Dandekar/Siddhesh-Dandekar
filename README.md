@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube Clone**
-
-- 🌱 I’m currently learning **AWS Services and GraphQL**
-
 - 📫 How to reach me **www.greedyspace.com**
 
 - 💬 Ask me about **JavaScript, React, Node.js and any general software development questions**
