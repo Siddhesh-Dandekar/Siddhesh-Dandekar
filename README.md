@@ -2,7 +2,7 @@
 
 Software Developer based in Mumbai, India. I build full stack web applications with React, Next.js, TypeScript and Node.js.
 
-[Portfolio](https://siddhesh-dandekar.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/siddhesh-dandekar/) · [Email](mailto:siddhesh0129@gmail.com)
+[Portfolio](https://siddhesh-dandekar.github.io/) · [LinkedIn](https://www.linkedin.com/in/siddhesh-dandekar/) · [Email](mailto:siddhesh0129@gmail.com)
 
 ## Experience
 
